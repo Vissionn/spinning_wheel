@@ -43,7 +43,7 @@
 
   @keyframes spin2 {
     100%{
-        transform: rotate(-1turn) translate(90,90);
+        transform: rotate(-1turn);
 
     }
   }
